@@ -31,5 +31,4 @@ RUN a2enmod rewrite
 VOLUME ["/var/www/html"]
 
 # docker run -p 8080:80 -v D:\playground\index.html:/var/www/html jeromelpushparaj/apache2:local
-
 CMD /var/app/main.sh
