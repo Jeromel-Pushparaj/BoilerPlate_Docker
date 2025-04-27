@@ -6,8 +6,6 @@ include_once 'includes/Database.class.php';
 include_once 'includes/UserSession.class.php';
 include_once 'includes/WebAPI.class.php';
 include_once 'app/Post.class.php';
-include_once 'includes/Device.class.php';
-include_once 'includes/ApiKey.class.php';
 
 global $__site_config;
 /*
